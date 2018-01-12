@@ -79,6 +79,8 @@
     <Content Include="image\header.jpg" />
     <Content Include="image\S__21635231.jpg" />
     <Content Include="index.html" />
+    <Content Include="scripts\main.js" />
+    <Content Include="Recipe.html" />
     <Content Include="style\headerstyle.css" />
     <Content Include="Web.config" />
   </ItemGroup>
